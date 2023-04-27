@@ -1,0 +1,10 @@
+
+    {
+        "liveServer.settings.https": {
+            "enable": true, //set it true to enable the feature.
+            "cert": "C:/Users/dines/Downloads/server.cer", //full path of the certificate
+            "key": "C:/Users/dines/Downloads/server.key", //full path of the private key
+            "passphrase": ""
+        },
+        "liveServer.settings.port": 5503
+        }
